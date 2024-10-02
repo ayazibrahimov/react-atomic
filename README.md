@@ -1,7 +1,7 @@
 
 # For what ?
-In this project, we explore React optimization techniques. We dive deep into React memo, useCallback, and useMemo, learning how to use them effectively to enhance the performance of our React applications.And also React shows us how to
-use send props componenet as a children effects react performans.
+In this project, we explore React optimization techniques. We dive deep into React memo, useCallback, and useMemo, learning how to use them effectively to enhance the performance of our React applications. And also React shows us how to
+use send props componenet as a children effects react performance.
 
 
 # Getting Started with Create React App
